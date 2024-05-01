@@ -1,6 +1,9 @@
 
-# 👋 Hi there, I'm Setare!<br>
-📊 Currently diving deep into the exciting world of data science.<br>🐍 Python and PowerBI are my trusty sidekicks in unraveling data mysteries.<br>📝 Passionate about NLP and eager to unlock its secrets! so if you've got any cool resources or projects, hit me up!<br>💻 Let's learn more about data, code, or anything tech-related!<br>
+# 👋 It's Setare!<br>
+📊 Currently diving deep into the exciting world of data science.<br>
+📝 Passionate about NLP and eager to unlock its secrets!
+💻 Let's learn more about data, code, or anything tech-related!<br>
+💫If you've got any cool resources or projects, hit me up!<br>
 
 
 ## IDE:
@@ -8,7 +11,6 @@
 ![](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue) 
 ![](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&color=525252) 
 ![](https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
-
 
 
 ## Skills:
