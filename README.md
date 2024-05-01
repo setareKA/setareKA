@@ -16,7 +16,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white" alt="R" />
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MySQL-%23013243.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
 <h3 align="center">IDE</h3>
