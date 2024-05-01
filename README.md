@@ -4,7 +4,7 @@
 
 
 ## IDE:
-![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![](	https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue) ![](	https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&color=525252) ![](https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
 
 
 ## Skills:
@@ -12,7 +12,7 @@
 
 
 ## Contact:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:setarekazemaslani@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:setarekazemaslani@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/setare-kazemaslani-131ab5286) 
 
 
