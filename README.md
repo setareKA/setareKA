@@ -1,5 +1,5 @@
 
-# 👋 It's Setare!<br>
+# It's Setare! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/star.gif" width="30px" height="30px" /><br>
 📊 Currently diving deep into the exciting world of data science.<br>
 📝 Passionate about NLP and eager to unlock its secrets!<br>
 💻 Let's learn more about data, code, or anything tech-related!<br>
