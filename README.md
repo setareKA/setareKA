@@ -1,5 +1,6 @@
 
-# 👋 Hi there, I'm Setare!<br><br>📊 Currently diving deep into the exciting world of data science.<br>🐍 Python and PowerBI are my trusty sidekicks in unraveling data mysteries.<br>📝 Passionate about NLP and eager to unlock its secrets! so if you've got any cool resources or projects, hit me up!<br>💻 Let's learn more about data, code, or anything tech-related!<br>🚀 #DataScience #NLPEnthusiast
+# 👋 Hi there, I'm Setare!<br><br>
+📊 Currently diving deep into the exciting world of data science.<br>🐍 Python and PowerBI are my trusty sidekicks in unraveling data mysteries.<br>📝 Passionate about NLP and eager to unlock its secrets! so if you've got any cool resources or projects, hit me up!<br>💻 Let's learn more about data, code, or anything tech-related!<br>🚀 #DataScience #NLPEnthusiast
 
 
 ## 🌐 Socials:
@@ -12,8 +13,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=setareKA&theme=city_light&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=setareKA&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=setareKA&icon=0&color=12)](https://visitcount.itsvg.in)
