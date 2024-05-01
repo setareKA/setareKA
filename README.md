@@ -1,4 +1,4 @@
-# <h1>Hi, It's Setare! <span style="font-size: 20px;">⭐</span></h1> <br>
+# Hi, It's Setare!&#10022; <br>
 📊 Currently diving deep into the exciting world of data science.<br>
 📝 Passionate about NLP and eager to unlock its secrets!<br>
 💻 Let's learn more about data, code, or anything tech-related!<br>
