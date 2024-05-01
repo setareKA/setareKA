@@ -1,4 +1,4 @@
-# It's Setare!  <img src="https://emojicdn.elk.sh/⭐️?spin=true" width="30px" height="30px" /> <br>
+# Hi, It's Setare!  <img src="https://media.giphy.com/media/JhKyf6uY1hVjqnOeHG/giphy.gif" width="30px" height="30px" /> <br>
 📊 Currently diving deep into the exciting world of data science.<br>
 📝 Passionate about NLP and eager to unlock its secrets!<br>
 💻 Let's learn more about data, code, or anything tech-related!<br>
