@@ -21,5 +21,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:setarekazemaslani@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/setare-kazemaslani-131ab5286) 
 
+<p align="center">
+        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Some wave" />
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
