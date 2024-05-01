@@ -13,7 +13,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=setareKA&theme=city_light&hide_border=false)<br/>
 
 
----
-[![](https://visitcount.itsvg.in/api?id=setareKA&icon=0&color=12)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
