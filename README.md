@@ -1,5 +1,5 @@
 
-<h1 align="center"> Hi, It's Setare! <br> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/761f4c99-eda3-4c9a-a4ec-2b6311e2433a" width="70">&nbsp;
+<h1 align="center"> Hi, It's Setare! <br> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/761f4c99-eda3-4c9a-a4ec-2b6311e2433a" width="90">&nbsp;
 </h1>
 <p align="center">
 📊 Currently diving deep into the exciting world of data science.<br>
