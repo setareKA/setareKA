@@ -1,7 +1,7 @@
 
 # 👋 It's Setare!<br>
 📊 Currently diving deep into the exciting world of data science.<br>
-📝 Passionate about NLP and eager to unlock its secrets!
+📝 Passionate about NLP and eager to unlock its secrets!<br>
 💻 Let's learn more about data, code, or anything tech-related!<br>
 💫If you've got any cool resources or projects, hit me up!<br>
 
