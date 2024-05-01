@@ -1,11 +1,11 @@
-# Hi, It's Setare!&#10022; <br>
+# Hi, It's Setare! <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7cc5988c-f607-4d4f-ab01-360a4f9321eb" width="50">&nbsp; <br>
 📊 Currently diving deep into the exciting world of data science.<br>
 📝 Passionate about NLP and eager to unlock its secrets!<br>
 💻 Let's learn more about data, code, or anything tech-related!<br>
 💫If you've got any cool resources or projects, hit me up!<br>
 
 
-## Skills <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643" width="25">&nbsp;
+## Skills <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643" width="50">&nbsp;
 ### Languages:
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white)
