@@ -8,8 +8,8 @@
 💫If you've got any cool resources or projects, hit me up!<br>
 </p>
 
-<h2 align="center">Skills <br> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643" width="60">&nbsp;
-</h2>
+<h1 align="center">Skills <br> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643" width="60">&nbsp;
+</h1>
 
 <h3 align="center">Languages</h3>
 
@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" alt="VSCode" />
 </p>
 
-<h2 align="center">Contact</h2>
+<h1 align="center">Contact</h1>
 
 <p align="center">
   <a href="mailto:setarekazemaslani@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
