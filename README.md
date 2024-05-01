@@ -4,7 +4,10 @@
 
 
 ## IDE:
-![](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue) ![](	https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&color=525252) ![](https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
+![](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue) 
+![](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&color=525252) 
+![](https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
+![](https://img.shields.io/badge/RStudio-FFD43B?style=flat-square&logo=RStudio&logoColor=blue)
 
 
 ## Skills:
