@@ -31,5 +31,4 @@
 <p align="center">
         <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Some wave" />
 </p>
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0d554abf-6a41-4856-be43-5dbb4df0915b" width="300">
-<br><br>
+
