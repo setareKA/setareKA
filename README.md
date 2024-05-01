@@ -1,5 +1,5 @@
 
-<h1 align="center"> Hi, It's Setare! <br> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/761f4c99-eda3-4c9a-a4ec-2b6311e2433a" width="80" height="50">&nbsp;
+<h1 align="center"> Hi, It's Setare! <br> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/761f4c99-eda3-4c9a-a4ec-2b6311e2433a" width="70">&nbsp;
 </h1>
 <p align="center">
 📊 Currently diving deep into the exciting world of data science.<br>
@@ -8,7 +8,7 @@
 💫If you've got any cool resources or projects, hit me up!<br>
 </p>
 
-<h1 align="center">Skills <br> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643" width="60">&nbsp;
+<h1 align="center">Skills <br> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643" width="70">&nbsp;
 </h1>
 
 <h3 align="center">Languages</h3>
@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" alt="VSCode" />
 </p>
 
-<h1 align="center"> Contact <br> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6f564d9a-467a-4bba-ad3a-8527c8ab79ae" width="75">&nbsp;</h1>
+<h1 align="center"> Contact <br> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6f564d9a-467a-4bba-ad3a-8527c8ab79ae" width="70">&nbsp;</h1>
 
 <p align="center">
   <a href="mailto:setarekazemaslani@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
