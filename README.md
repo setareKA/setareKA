@@ -5,7 +5,7 @@
 💫If you've got any cool resources or projects, hit me up!<br>
 
 
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" height="28px"></h4> <div align="left"> Skills
+## Skills <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" height="28px"></h4> <div align="left">  
 
 ### Languages:
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
@@ -31,4 +31,6 @@
 <p align="center">
         <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Some wave" />
 </p>
-
+<p align="center">
+    <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Some wave" style="filter: brightness(0.5) saturate(2) hue-rotate(180deg);" />
+</p>
