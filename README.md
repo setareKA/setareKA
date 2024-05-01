@@ -21,7 +21,14 @@
   <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
+<h3 align="center">IDE</h3>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/RStudio-%230077B5.svg?style=flat-square&logo=RStudio&logoColor=white" alt="RStudio" />
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue" alt="Python" />
+  <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&color=525252" alt="Colab" />
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" alt="VSCode" />
+</p>
 <h3 align="center">Libraries</h3>
 
 <p align="center">
@@ -32,14 +39,7 @@
   <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white" alt="Keras" /> 
 
 </p>
-<h3 align="center">IDE</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/RStudio-%230077B5.svg?style=flat-square&logo=RStudio&logoColor=white" alt="RStudio" />
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue" alt="Python" />
-  <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&color=525252" alt="Colab" />
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" alt="VSCode" />
-</p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
