@@ -5,10 +5,6 @@
 💫If you've got any cool resources or projects, hit me up!<br>
 
 
-
-
-# Skills <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643" width="60">&nbsp;
-
 <h1 align="center">Skills <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643" width="60">&nbsp;
 </h1>
 
@@ -50,7 +46,7 @@
 <h3 align="center"> </h3>
 
 <p align="center">
-  <a 
+  
     <div align="">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
@@ -76,7 +72,7 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
     </div>
-<br><br>  /></a>
+<br><br>  
 </p>
 
 
