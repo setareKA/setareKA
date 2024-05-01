@@ -1,5 +1,4 @@
-###👋 Hi there, I'm Setare!
-
+👋 Hi there, I'm Setare!
 
 📊 Currently diving deep into the exciting world of data science.
 🐍 Python and PowerBI are my trusty sidekicks in unraveling data mysteries 🕵️‍♂️.
