@@ -1,5 +1,5 @@
 
-<h1 align="center"> Hi, It's Setare! <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/761f4c99-eda3-4c9a-a4ec-2b6311e2433a" width="70">&nbsp;
+<h1 align="center"> Hi, It's Setare! <br> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/761f4c99-eda3-4c9a-a4ec-2b6311e2433a" width="70">&nbsp;
 </h1>
 <p align="center">
 📊 Currently diving deep into the exciting world of data science.<br>
@@ -8,7 +8,7 @@
 💫If you've got any cool resources or projects, hit me up!<br>
 </p>
 
-<h2 align="center">Skills <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643" width="60">&nbsp;
+<h2 align="center">Skills <br> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643" width="60">&nbsp;
 </h2>
 
 <h3 align="center">Languages</h3>
